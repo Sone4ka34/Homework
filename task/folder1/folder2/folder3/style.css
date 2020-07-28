@@ -1,4 +1,7 @@
 
+.wrapper_all *{
+    width: 90%;
+}
 .wrapper0 h1{
     margin-left: 3%;
     font-family: 'Comfortaa', cursive;
@@ -18,7 +21,6 @@
 .wrapper2 p{
     margin-left: 7%;
     font-family: 'PT Serif', serif;
-    width: auto;
 }
 .wrapper3 p{
     margin-left: 9%;
