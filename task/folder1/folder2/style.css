@@ -29,3 +29,27 @@
     margin-left: 11%;
     font-family: 'PT Serif', serif;
 }
+.btn {
+    padding: 5px;
+    margin: 1px 1px 1px 35px;
+    border: 2px solid black;
+    border-radius: 5px;
+    box-shadow: 2px 3px 4px black;
+    background-color:white;
+    color: black;
+    width: min-content;
+}
+.btn1 {
+    padding: 5px;
+    margin: 1px 1px 1px -3px;
+    border: 2px solid black;
+    border-radius: 5px;
+    box-shadow: 2px 3px 4px black;
+    background-color:white;
+    color: black;
+    width: fit-content;
+}
+.image {
+    margin-left: 40px;
+    width: 450px;
+}
